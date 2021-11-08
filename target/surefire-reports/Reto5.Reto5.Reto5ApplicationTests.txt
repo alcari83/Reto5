@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Reto5.Reto5.Reto5ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.032 s - in Reto5.Reto5.Reto5ApplicationTests
